@@ -1,5 +1,0 @@
-* Variables: Es una forma de almacenar un valor
- * Strings: Son bloques de texto definidos entre comillas
- * Funciones (argumentos, `return`): Son tipos particulares de objetos. Se le llama argumento a la variable entre paréntesis dentro de una función, la cual puede ser usada dentro de la misma. Return es la única forma de usar un dato que se encuentra dentro de una funcion, afuera de la misma (return detiene la función inmediatamente y devuelve lo especificado).
- * Declaraciones `if`: La declaración 'if' es un operador de control de flujo que permite a la función verificar si algo es true y ejecutando, o no, el código especificado según corresponda.
- * Valores booleanos (`true`, `false`): Provenientes de la lógica de Boole, significan que existen sólo dos opciones que se excluyen mutuamente(true o false)
