@@ -1,4 +1,4 @@
 * `for`: Es una palabra clave que inicia un bucle que evalua expresiones una y otra vez hasta devolver lo que se esta buscando (o hasta detenerse despues de cierto tiempo).
 * `&&`: Operador AND. Devuelve solo si ambas expresiones a su izquierda y derecha, son TRUE.
 `||`: Operador OR. Devuelve si al menos una de las expresiones a su izquierda o derecha, son TRUE.
-`!`: Operador NOT. Devuelve TRUE si las expresiones a su izquierda y derecha no son iguales.
+`!`: Operador NOT. Devuelve lo opuesto (si la expresion es TRUE, devuelve FALSE).
