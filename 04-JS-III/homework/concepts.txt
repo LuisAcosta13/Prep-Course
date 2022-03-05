@@ -1,0 +1,1 @@
+Arrays: son contenedores que se declaran entre corchetes para almacenar datos como numeros o strings, los cuales son accesibles y modificables.
