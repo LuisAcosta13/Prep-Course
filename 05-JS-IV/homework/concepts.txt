@@ -1,0 +1,5 @@
+* Objetos: Son colecciones de propiedades, sirven como contenedores de información sobre una sola cosa. 
+* Propiedades: Son asociaciones entre un nombre identificador y un valor.
+* Métodos: Son funciones que se guardan en un objeto, los cuales se llaman usando notacion de puntos (con parentesis al final).
+* Bucle `for…in`: es una clase de bucle que sirve para iterar sobre las propiedades que no tienen índice numérico.
+* Notación de puntos vs notación de corchetes: la notacion de puntos se ultiliza para acceder a una propiedad cuando su valor es conocido, mientras que la notacion con corchetes sirve para acceder a una propiedad de valor desconocido, utilizando una variable declarada en el argumento de la función.
