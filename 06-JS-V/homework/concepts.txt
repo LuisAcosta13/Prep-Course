@@ -1,0 +1,2 @@
+* `prototype`: es la herramienta que permite compartir las mismas propiedades entre objetos diferentes de una misma clase.
+* _Constructors_ (de Clases): es un tipo de función que sirve de base para la creacion otros objetos.
