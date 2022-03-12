@@ -1,0 +1,26 @@
+#divClass > h1 {
+    color:rgb(0, 73, 18);
+}
+#thirdDiv > ul > li > img {
+    width: 400px;
+}
+#thirdDiv{
+    width: 500px; 
+    height: 600px; 
+    background-color: rgb(253, 153, 2); 
+    padding: 50px; 
+    border: 20px rgb(0, 73, 18) solid};
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
+#body{
+    background-image: url(https://images3.alphacoders.com/743/74325.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
