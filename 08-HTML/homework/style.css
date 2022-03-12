@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Slab&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IM+Fell+English+SC&display=swap');
+
+
+body{
+    background-color: aliceblue;
+    background-image: url(https://p4.wallpaperbetter.com/wallpaper/243/504/860/wood-textures-1680x1050-abstract-textures-hd-art-wallpaper-preview.jpg);
+    
+    background-size: auto;
+    text-align: center;
+     ;
+}
+h1{
+    font-size: 50px;
+    font-family: 'IM Fell English SC', serif;
+    font-weight: bold;
+    text-align: center;
+}
+img{
+    width: 150px;
+    height: 150px;
+    position: relative;
+    right: 0%;
+    border: double;
+    border-width: 6px;
+}
+h2{
+    font-family: 'Special Elite', cursive;
+    text-decoration: underline;
+    text-align: center;
+    font-size: 38px;
+}
+
+#educ{
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+}
+
+b{
+    font-size: 25px;
+    text-decoration: wavy;
+    font-family: 'Josefin Slab', serif;
+    padding: 20px
+}
+
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    padding: 20px;
+}
+
+ul{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
